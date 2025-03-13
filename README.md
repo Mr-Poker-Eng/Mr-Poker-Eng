@@ -1,6 +1,6 @@
 <h1 align="center">
         <a href="https://git.io/typing-svg">
-            <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hlw+👋;+I'm+Munim!;" alt="">
+            <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hlw+👋;+I'm+Munim!;" alt="">
         </a>
     </h1>
 
@@ -9,8 +9,8 @@
 <br>
 
 <h3 align="center">⚡ Stats ⚡</h3> <br>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mr-Poker-Eng&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Mr-Poker-Eng" /></p> <br>
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Mr-Poker-Eng&show_icons=true&locale=en&theme=radical" alt="Mr-Poker-Eng" /></p> <br>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mr-Poker-Eng&show_icons=true&locale=en&layout=compact&theme=onedark" alt="Mr-Poker-Eng" /></p> <br>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Mr-Poker-Eng&show_icons=true&locale=en&theme=tokyonight" alt="Mr-Poker-Eng" /></p> <br>
 
 
 <sub><h4 align="center">All rights reserved by Munim © 2025 | Follow me on [GitHub](https://github.com/Mr-Poker-Eng)</h4></sub>
